@@ -1,4 +1,4 @@
-# Peluqueria Canina
+# Estética Canina
 
 ### Software:
 
